@@ -1,0 +1,26 @@
+Algoritmo para Escovar os Dentes
+
+1- Acordar
+2- Ir no banheiro
+3- Acender a luz
+4- Pegar a escova 
+5- E a pasta 
+6- Colocar o creme dental na escova 
+7- Ligue a torneira 
+8- Molha a escova de dente 
+9- Feche a torneira
+10- Escove os dentes e a lingua
+11- Depois Ligue a torneira  
+12- Cospe na pia 
+13- Lave a escova e depois a coloca no recipiente
+14- Ligue a torneira
+15- Feche a torneira
+16- Faz bochecho 
+17- Cospe na pia 
+18- Pegue o enxaguam-te bocal
+19- Faz o bochecho 
+20- Cospe na pia 
+21- Depois pegue a tolha de rosto 
+22- E limpa sua boca 
+23- E coloca ela no lugar onde você pegou
+24- E proto seus dentes estão limpos e sai do banheiro. 

@@ -1,0 +1,13 @@
+ Algoritmo para fazer um café em uma cafeteira de filtro de pape
+
+
+1- Coloque o pó no filtro de papel
+2- Adicione água
+3- Coloque no fogo a água
+4- Espere ela ferver 
+5- Retire a caneca 
+6- Garantindo que o café seja umedecido
+7- E que seu aroma seja liberado
+8- Antes de servir
+9- Mecha na caneca onde o café está adicionado com açúcar
+10- E o café já está pronto para o cliente
