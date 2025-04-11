@@ -1,0 +1,12 @@
+1- apague e luz
+2- pegue uma escada 
+3- coloque a escada 
+4- sobe nela  
+5- gire a lâmpada
+6- retire a lâmpada 
+7- depois adicione-a outra nova 
+8- desce a escada 
+9- retire ela 
+10- e acende a luz 
+11- pronto a lâmpada foi trocada
+ 
