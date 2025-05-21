@@ -1,4 +1,4 @@
-/*Contagem de 0 a 100 - Faça um programa que mostre no Serial Monitor os números
+/* Contagem de 0 a 100 - Faça um programa que mostre no Serial Monitor os números
 de 0 até 100 usando while.
 */
 void setup()
@@ -20,7 +20,7 @@ int contadorWhile = 0; //variavel local
 {
   Serial.println(contadorWhile);
   contadorWhile++;
-    // 2a - contadorWhile = contadorWhile + 2;
+    // 2a - contadorWhile = contadorWhile +2;
     // 3a - contadorWhile += 2(somar com um valor diferente do que 1;
   }
 /*operadores
